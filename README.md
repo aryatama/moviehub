@@ -1,8 +1,7 @@
 # MovieHub Project
 
 ## Description
-Sayembara is a platform for peopl­­­e to making contest or searching for contest and submitting their work to winning the prize of the contest. This application is designed for participants, so users can view contests and participate through the mobile platform.
-
+MovieHub is an application to finding rating and reviews for the newest movie.
 ## Features
 * View rating and reviews about the movies
 * Searching of the movies
